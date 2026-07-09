@@ -46,7 +46,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/AScan.git
+git clone https://github.com/R3s3arcmSureness/AScan.git
 cd AScan
 
 # 编译当前平台
