@@ -32,7 +32,7 @@
 
 ### 下载预编译二进制
 
-从 [Releases](https://github.com/your-username/AScan/releases) 下载对应平台的二进制文件：
+从 ([Releases](https://github.com/R3s3arcmSureness/AScan/releases/)) 下载对应平台的二进制文件：
 
 | 平台 | 文件 |
 |------|------|
