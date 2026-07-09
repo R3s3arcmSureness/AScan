@@ -120,7 +120,7 @@ ascan --silent
   AScan - 扫描结果
 ========================================
   时间: 2026-07-09 10:39:55
-  系统: Windows/amd64 | 主机: DESKTOP-ABC123
+  系统: Windows/amd64 | 主机: DESKTOP-R3S3ARCM
   扫描文件: 42 | 发现: 3
 ----------------------------------------
   Critical: 1 | High: 1 | Medium: 1 | Low: 0
